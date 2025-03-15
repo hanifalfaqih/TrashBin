@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trashbin</string>
+    <string name="title_article">Article</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_diy">DIY</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
